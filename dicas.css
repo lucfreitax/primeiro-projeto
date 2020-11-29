@@ -1,3 +1,8 @@
-body{
+body {
     background-color: burlywood;
+    color: black;
+    font: normal 15pt arial;
+}
+h1 {
+    color: azure;
 }
